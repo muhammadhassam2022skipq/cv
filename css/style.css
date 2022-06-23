@@ -10,3 +10,6 @@ hr {
 h1,h3 {
 color: #47B5FF;
 }
+img {
+    border-radius: 1000px;
+}
